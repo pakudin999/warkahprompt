@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './index.css'; // Wajib import ini supaya style tidak hilang/putih
+import './index.css';
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
